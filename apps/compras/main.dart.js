@@ -42451,7 +42451,7 @@ a_A(a){var s=0,r=A.V(t.H),q=this,p,o,n,m,l,k,j
 var $async$pP=A.W(function(b,c){if(b===1)return A.S(c,r)
 while(true)switch(s){case 0:j={}
 j.a="create"
-p=A.a(["Fruta","Legumes","Padaria"],t.s)
+p=A.a(["Padaria","Fruta","Legumes","Frios","Mercearia","Carne/Peixe"],t.s)
 o=j.b=""
 if(a!=null){j.a="update"
 n=a.zN(0)
